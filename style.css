@@ -5,3 +5,8 @@
 #card {
     float: right;
 }
+
+.container {
+    border-style: double;
+    border-color: black;
+}
