@@ -1,3 +1,4 @@
 # alushi96-homework-2
 
 For my portfolio website i have made 3 different html files. I linked them all together in the navbar so when you would like to go to the next html you just lick in the navbar. For the first page, About me, i added containers and rows to make everything level and responsive using bootstrap. For the second page, Portfolio, i did the samething but added responsive images to the mix. And for the final page, Contact, i add a form to be filled out and submitted with contact information to be able to get back the the person who wants to know more. I also made a style.css sheet to help with some small stuff like font and borders and colors. I also added a sticky footer as a bonus.
+Added first project to my portfolio
